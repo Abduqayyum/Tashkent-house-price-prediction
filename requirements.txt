@@ -44,7 +44,6 @@ scipy==1.10.1
 seaborn==0.12.2
 semver==3.0.0
 six==1.16.0
-sklearn==0.0.post1
 smmap==5.0.0
 streamlit==1.20.0
 threadpoolctl==3.1.0
